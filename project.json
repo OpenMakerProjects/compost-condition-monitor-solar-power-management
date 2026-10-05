@@ -1,0 +1,20 @@
+{
+  "id": 183,
+  "title": "Compost Condition Monitor Solar Power Management",
+  "repository_slug": "compost-condition-monitor-solar-power-management",
+  "category": "Smart Agriculture",
+  "platform": "STM32",
+  "platform_family": "arduino",
+  "difficulty": "Beginner",
+  "estimated_hours": 16,
+  "connectivity": "GSM",
+  "components": [
+    "capacitive soil sensor",
+    "solar charger"
+  ],
+  "scope": "Build a smart agriculture prototype that uses capacitive soil sensor, solar charger to manage charging and low-power operation. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Solar Power Management demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/compost-condition-monitor-solar-power-management/compost-condition-monitor-solar-power-management.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
